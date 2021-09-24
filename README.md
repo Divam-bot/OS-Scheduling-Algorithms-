@@ -16,4 +16,7 @@ Visualization of following algoritms are included
 ![](https://github.com/Divam-bot/OS-Scheduling-Algorithms-/blob/main/algorithm_selector.png)
 
 At each second which process is at which stage inside CPU can be visulized
+![](https://github.com/Divam-bot/OS-Scheduling-Algorithms-/blob/main/IO-Pre-priority.png)
+
+Additionally it also generated graphs and gant chart to compare effeciency of different algorithms for a given scenerio
 ![]()
