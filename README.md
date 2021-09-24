@@ -14,3 +14,6 @@ Visualization of following algoritms are included
 8. Pre-emptive Priority
 
 ![](https://github.com/Divam-bot/OS-Scheduling-Algorithms-/blob/main/algorithm_selector.png)
+
+At each second which process is at which stage inside CPU can be visulized
+![]()
