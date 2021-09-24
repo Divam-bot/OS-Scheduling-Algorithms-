@@ -13,4 +13,4 @@ Visualization of following algoritms are included
 7. Priority Scheduling
 8. Pre-emptive Priority
 
-https://github.com/Divam-bot/OS-Scheduling-Algorithms-/blob/main/algorithm_selector.png
+!(https://github.com/Divam-bot/OS-Scheduling-Algorithms-/blob/main/algorithm_selector.png)
