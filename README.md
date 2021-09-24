@@ -3,9 +3,11 @@
 CPU Scheduling algorithms visualization created with java swing.
 Desktop based GUI application to effectively learn and visulize all CPU scheduling algorithms in a Operating system.
 
-** For complete details and instruction to use jar file refer https://github.com/Divam-bot/OS-Scheduling-Algorithms-/blob/main/Implementation%20%26%20Theory.pdf **
-** To install or modify project refer https://github.com/Divam-bot/OS-Scheduling-Algorithms-/blob/main/ReadMe.pdf **
-** To watch complete usage of vizualization on all algorithms: https://youtu.be/m-a8-nxlg38/ ** 
+**For complete details and instruction to use jar file refer** https://github.com/Divam-bot/OS-Scheduling-Algorithms-/blob/main/Implementation%20%26%20Theory.pdf
+
+**To install or modify project refer** https://github.com/Divam-bot/OS-Scheduling-Algorithms-/blob/main/ReadMe.pdf
+
+**To watch complete usage of vizualization on all algorithms:** https://youtu.be/m-a8-nxlg38/ 
 
 Visualization of following algoritms are included
 
